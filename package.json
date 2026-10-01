@@ -1,0 +1,13 @@
+{
+  "name": "ts-practice-1",
+  "version": "1.0.0",
+  "description": "Введение в TypeScript - типы и настройка проекта",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
